@@ -1,0 +1,22 @@
+
+在主程式中加入以下2行
+--------------------------------------------
+#include "tomysql.h"
+#pragma   comment(lib, "ws2_32.lib ")
+
+
+tomysql.h
+mysql.h
+mysql_version.h
+....
+....
+....
+....
+
+libmysql.lib
+
+libmysql.dll
+
+在專案的 configuration properties的
+[Linker] - [Input] - [Additional Dependencies]
+加入--> libmysql.lib ws2_32.lib

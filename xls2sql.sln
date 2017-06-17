@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xls2sql", "xls2sql\xls2sql.vcproj", "{0C33F839-1377-4DC9-B803-E8E2C4856407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C33F839-1377-4DC9-B803-E8E2C4856407}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C33F839-1377-4DC9-B803-E8E2C4856407}.Debug|Win32.Build.0 = Debug|Win32
+		{0C33F839-1377-4DC9-B803-E8E2C4856407}.Release|Win32.ActiveCfg = Release|Win32
+		{0C33F839-1377-4DC9-B803-E8E2C4856407}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
